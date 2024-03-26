@@ -7,7 +7,6 @@ number += 2
 number *= 5
 number /= 5
 number -= 5
-
 print(number)
 print(1 + 3)
 print(1 - 3)
